@@ -207,7 +207,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="➕ Add ME",
-                                url="t.me/isaiminibot?startgroup=true".format(
+                                url="t.me/khiladi45bot?startgroup=true".format(
                                     context.bot.username
                                 ),
                             )
@@ -219,12 +219,12 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="founder",
-                                url="https://t.me/Marinemafiya",
+                                url="https://t.me/HrithikRoshan01",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text= "Dev", url="https://t.me/Danger_bots"
+                                text= "Dev", url="https://t.me/KhiladiKing45"
                             ),
                         ],
                     ]
